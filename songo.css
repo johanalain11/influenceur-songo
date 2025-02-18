@@ -1,0 +1,115 @@
+body{
+    background-image: url('img/img2.JPG');
+    background-position: 20%;
+    background-size: 100%;
+}
+
+.text{
+    border-left: solid 2px white;
+}
+
+#songo{
+    display: inline-block;
+    width: max-content;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.controls{
+    background-color: darkslategray;
+    border-radius: 30px 30px;
+    padding: 10px;
+    border: solid 2px white;
+    margin-bottom: 10px;
+}
+.controls form [class = n1] {
+    background-color: darkslategray;
+    margin: 2px 0px;
+    font-size: 20px;
+    border: none;
+    padding: 0% 2%;
+    border-radius: 10px;
+    color: rgb(28, 165, 189);
+}
+.controls form [class = n1]:hover{
+    background-color: white;
+    color:  rgb(85, 125, 143);
+    border-color: white;
+    transition: 0.8s background-color;
+}
+
+.container{
+    background-color: darkslategray;
+    border-radius: 30px 30px;
+    padding: 20px;
+    border: solid 2px white;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+.container form button{
+    outline: 0;
+    width: 60px;
+    height: 40px;
+    margin: 2px 0px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), -5px -5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    font-size: 20px;
+    color: rgb(28, 165, 189);
+    cursor: pointer;
+}
+
+.container form button:hover{
+    background-color: rgb(85, 125, 143);
+    color: white;
+    border-color: white;
+    transition: 0.8s background-color;
+}
+
+#msg{
+    margin: 2px 0px;
+    margin-left: 15px;
+    color: white;
+    font-family: 'Qonora', 'Times New Roman';
+    font-style:italic;
+    font-size: 15px;
+    border: none;
+}
+#msg:hover{
+    display: none;
+
+}
+
+
+.joueur1, #prise1{
+    border: solid 5px rgba(0, 0, 0, 0.438);
+    border-top: solid 5px rgba(10, 148, 63, 0.438) ;
+    border-bottom: solid 5px rgba(14, 61, 165, 0.438) ;
+}
+
+.joueur2, #prise2{
+    border: solid 5px rgba(0, 0, 0, 0.438);
+    border-top: solid 5px rgba(155, 40, 40, 0.884);
+    border-bottom: solid 5px rgba(197, 24, 62, 0.932);
+
+}
+
+#prise1, #prise2{
+    width: 124px;
+    height: 45px;
+    margin: 4px 2px;
+}
+
+#prise1:hover, #prise2:hover{
+    display: none;
+}
+
+#prise1{
+    border: solid 5px rgba(10, 148, 63, 0.438) ;
+}
+
+#prise2{
+    float: right;
+    border: solid 5px rgba(197, 24, 62, 0.76);
+}

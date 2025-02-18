@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Songo game</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="songo.css">
+	<script src="songo.js" type="text/javascript" defer></script>
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+
+<body>
+	<header>
+		<img src="icons/logo.png" width="140%" id="logo">
+		<div id="tia">
+			<span id="hia">Tiakola<br></span>
+			<i><br>Rappeur et chanteur français</i>
+
+		</div><br><br>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="https//wwww.apple.com/apple-music/">Apple Music</a></li>
+			<li><a href="https://open.spotify.com">Spotify</a></li>
+			<li><a href="https://www.deezer.com">Deezer</a></li>
+			<li><a href="https://audiomack.com">Audiomack</a></li>
+			<li><a href="https://music.youtube.com">Youtube Music</a></li>
+			<li><a href="Songo game.html" style="color: red;">Songo game</a></li>
+		</ul>
+	</nav>
+	<br><br>
+	<div id="main">
+		<ul id="navigationMenu">
+			<li><a class="accueil" href="Accueil.html"><span>Accueil</span></a></li>
+			<li><a class="about" href="Habillement.html"><span>Habillement</span></a></li>
+			<li><a class="scripts" href="Musique.html"><span>Musique</span></a></li>
+			<li><a class="images" href="Gastronomie.html"><span>Gastronomie</span></a></li>
+			<li><a class="contact" href="Film.html"><span>Film</span></a></li>
+			<li><a class="marque" href="Marque.html"><span>Marque</span></a></li>
+		</ul>
+	</div>
+
+	<div class="text">
+		<h1 style="color: white;"> "Jeu du Songo "</h1>
+		<div id="songo">
+			<div class= "controls">
+				<form>
+					<button type="button" class="n1" onclick=commencer()>Commencer</button>
+					<span id="msg"></span>
+					<button type="button" class="n1" style="float: right;"><span id="mode">Mode</span></button>
+				</form>
+			</div>
+			<div class="container">
+				<form>
+					<div>
+						<button type="button" onclick=jeu(2_0) class="joueur2" id= B[0]></button>
+						<button type="button" onclick=jeu(2_1) class="joueur2" id= B[1]></button>
+						<button type="button" onclick=jeu(2_2) class="joueur2" id= B[2]></button>
+						<button type="button" onclick=jeu(2_3) class="joueur2" id= B[3]></button>
+						<button type="button" onclick=jeu(2_4) class="joueur2" id= B[4]></button>
+						<button type="button" onclick=jeu(2_5) class="joueur2" id= B[5]></button>
+						<button type="button" onclick=jeu(2_6) class="joueur2" id= B[6]></button>
+					</div>
+					<div>
+						<button type="button" id="prise1">
+						<button type="button" id="prise2">
+					</div>
+					<div>
+						<button type="button" onclick=jeu(1_6) class="joueur1" id= A[6]><span></span></button>
+						<button type="button" onclick=jeu(1_5) class="joueur1" id= A[5]><span></span></button>
+						<button type="button" onclick=jeu(1_4) class="joueur1" id= A[4]><span></span></button>
+						<button type="button" onclick=jeu(1_3) class="joueur1" id= A[3]><span></span></button>
+						<button type="button" onclick=jeu(1_2) class="joueur1" id= A[2]></button>
+						<button type="button" onclick=jeu(1_1) class="joueur1" id= A[1]></button>
+						<button type="button" onclick=jeu(1_0) class="joueur1" id= A[0]></button>
+					</div>
+				</form>
+
+
+			</div>
+		</div>
+	</div>
+	<footer>
+		<h3>Autres ressources</h3><br>
+		<p><a href="https://www.lymu.net/tiakola-concert">Tiakola en concert →</a></p>
+		<p><a href="https://www.lymu.net/tiakola-punchlines">Les Punchlines de Tiakola →</a></p>
+		<p><a href="https://www.lymu.net/albums/tiakola">Tiakola : Ses projets →</a></p><br>
+	</footer>
+</body>
+
+</html>
