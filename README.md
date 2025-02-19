@@ -1,6 +1,6 @@
 # 🎤 Site Vitrine de Tiakola & Jeu du Songo 🎮
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/johanalain11/influenceur-songo?style=for-the-badge) ![Website Status](https://img.shields.io/website?url=https://example.com&style=for-the-badge) ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge) ![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge) ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Terminé-green?style=for-the-badge)
+![GitHub Repo Stars](https://img.shields.io/github/stars/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/johanalain11/influenceur-songo?style=for-the-badge) ![Website Status](https://img.shields.io/website?url=https://influenceur-songo.netlify.app/&style=for-the-badge) ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge) ![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge) ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Terminé-green?style=for-the-badge)
  ---
 
 Bienvenue sur le **Site Vitrine de Tiakola**, un projet web mettant en avant la bibliographie de l'influenceur **Tiakola**. En complément, le site intègre également un **jeu du Songo** interactif !
@@ -12,6 +12,7 @@ Ce site propose différentes sections dédiées à **l’univers de Tiakola**, i
 - 🏠 **Page d'accueil** : Présentation générale  
 - 🎬 **Films** : Référencement des films préférés de Tiakola  
 - 🎵 **Musique** : Sa discographie et ses collaborations  
+- 🎵 **Marque** : Des marques populaires  
 - 🍽️ **Gastronomie** : Les plats favoris de l’influenceur  
 - 👕 **Habillement** : Son style vestimentaire et ses inspirations  
 
@@ -20,7 +21,7 @@ Le projet intègre également le **jeu traditionnel africain du Songo**, permett
 ---
 
 ## 🚀 Démo en ligne 
-🔗 [Lien vers le site](https://)
+🔗 [Lien vers le site](https://influenceur-songo.netlify.app/)
 
 ---
 
@@ -53,7 +54,6 @@ Le projet repose sur les **technologies web standards** :
 
 ## 🎯 Fonctionnalités
 
-✅ **Site responsive** : Adapté aux mobiles, tablettes et ordinateurs  
 ✅ **Effets d’animation CSS** : Transitions et hover effects  
 ✅ **Jeu du Songo interactif** : Développé en **JavaScript pur**  
 ✅ **Galerie multimédia** : Images et vidéos intégrées  
@@ -103,4 +103,3 @@ Le projet repose sur les **technologies web standards** :
 ✨ **N’hésite pas à contribuer !**  
 💡 **Suggestions et retours sont les bienvenus !** 😊  
 📩 **Contact :** [LinkedIn](www.linkedin.com/in/johanalain11) | Email [jank092016@gmail.com](mailto:jank092016@gmail.com)
-
