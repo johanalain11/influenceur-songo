@@ -8,7 +8,7 @@ header {
     border:1px;
     border-style:dotted;
     border-color: black;
-    background-image: url('img/image.JPG');
+    background-image: url('../img/image.JPG');
     background-size: 100%;
     background-attachment:unset;
     background-position:center;
