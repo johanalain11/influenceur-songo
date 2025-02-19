@@ -1,11 +1,14 @@
-# 🎤 Site Vitrine de Tiakola & Jeu du Songo 🎮 
-![GitHub Repo Stars](https://img.shields.io/github/stars/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub Forks](https://img.shields.io/github/forks/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub Issues](https://img.shields.io/github/issues/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/johanalain11/influenceur-songo?style=for-the-badge) ![Website Status](https://img.shields.io/website?url=https://example.com&style=for-the-badge) ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge) ![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge) ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge)![Status](https://img.shields.io/badge/Status-Terminé-green?style=for-the-badge)
+# 🎤 Site Vitrine de Tiakola & Jeu du Songo 🎮
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/johanalain11/influenceur-songo?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/johanalain11/influenceur-songo?style=for-the-badge) ![Website Status](https://img.shields.io/website?url=https://example.com&style=for-the-badge) ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge) ![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge) ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Terminé-green?style=for-the-badge)
  ---
 
 Bienvenue sur le **Site Vitrine de Tiakola**, un projet web mettant en avant la bibliographie de l'influenceur **Tiakola**. En complément, le site intègre également un **jeu du Songo** interactif !
 
-## 🌐 Aperçu du Projet 
+## 🌐 Aperçu du Projet
+
 Ce site propose différentes sections dédiées à **l’univers de Tiakola**, incluant :  
+
 - 🏠 **Page d'accueil** : Présentation générale  
 - 🎬 **Films** : Référencement des films préférés de Tiakola  
 - 🎵 **Musique** : Sa discographie et ses collaborations  
@@ -17,7 +20,7 @@ Le projet intègre également le **jeu traditionnel africain du Songo**, permett
 ---
 
 ## 🚀 Démo en ligne 
-🔗 [Lien vers le site](https://example.com) *(ajoute l’URL de ton site ici)*  
+🔗 [Lien vers le site](https://)
 
 ---
 
@@ -36,7 +39,7 @@ Le projet repose sur les **technologies web standards** :
     ├── /css           # Fichiers de styles CSS
     ├── /images        # Ressources graphiques et images
     ├── /others        # Fichiers multimédia
-    ├── Accueil.html     # Page d'accueil
+    ├── index.html     # Page d'accueil
     ├── Film.html     # Section dédiée aux films
     ├── Gastronomie.html  # Section gastronomie
     ├── Habillement.html  # Page sur l'habillement
